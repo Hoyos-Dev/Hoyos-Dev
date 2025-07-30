@@ -17,13 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec est quis m
 </p>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<img src="./assets/rex-laptop.png" width="42%" align="right" />
+<img src="./assets/rex-laptop.png" width="40%" align="right" />
 
 <p>
 -  Frontend Develope.
