@@ -18,6 +18,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec est quis m
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <img src="./assets/rex-laptop.png" width="42%" align="right" />
 
