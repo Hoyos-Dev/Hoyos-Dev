@@ -17,15 +17,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec est quis m
 </p>
 
 <br>
+<br>
 
 <img src="./assets/rex-laptop.png" width="42%" align="right" />
 
 <p>
--  Frontend Develope
+-  Frontend Develope.
 </p>
--  Always learning and exploring new tech
+-  Always learning and exploring new tech.
 </p>
--  Tech Stack: Angular, React, TypeScript, SCSS
+-  Tech Stack: Angular, React, TypeScript, SCSS.
 </p>
 -  I find rhythm in chaos with my headphones on.
 </p>
