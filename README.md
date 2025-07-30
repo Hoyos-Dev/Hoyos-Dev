@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec est quis m
 
 <br>
 
-<img src="./assets/rex-laptop.png" width="4%" align="right" />
+<img src="./assets/rex-laptop.png" width="25%" align="right" />
 
 <p>
 -  Frontend Develope
@@ -30,9 +30,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec est quis m
 -  I find rhythm in chaos with my headphones on.
 </p>
 -  I don’t have all the answers, but I’m always trying to improve.
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hoyos-Dev&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff" alt="HoyosDev Github Stats">
 </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hoyos-Dev&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff" alt="HoyosDev Github Stats">
 
 
 
