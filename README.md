@@ -29,8 +29,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec est quis m
 </p>
 -  I find rhythm in chaos with my headphones on.
 </p>
+- I don’t have all the answers, but I’m always trying to improve.
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hoyos-Dev&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff" alt="HoyosDev Github Stats">
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Hoyos-Dev&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff" alt="HoyosDev Github Stats">
+
 
 
 
