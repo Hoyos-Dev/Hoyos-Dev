@@ -8,7 +8,10 @@
   </a>
 </p>
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/windard)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoyos-Dev&show_icons=true&count_private=true&include_all_commits=true&title_color=56d364&icon_color=56d364)
+
+
+ 
 
 
 
