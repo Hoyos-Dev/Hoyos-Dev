@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-I am a software developer currently working at [Antstack Technologies](https://antstack.io). I like learning and experimenting with new technologies as they come. I try to build things that will save me from manual work. I am an open-source enthusiast and a dark mode everything person. I occasionally write on my blog about new technologies, coding, how-tos, travel etc.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec est quis mauris pretium ornare eu eget nunc. Nulla nec vestibulum elit. Praesent rhoncus arcu nec commodo rhoncus. Praesent sollicitudin eleifend ex, vel molestie ligula. Aliquam erat volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam fermentum risus nisl. Pellentesque non maximus neque. Aliquam erat volutpat. Maecenas sed mauris est. Curabitur tincidunt eros sed finibus cursus. Suspendisse at orci vitae ligula pulvinar aliquam. 
 </p>
 
 
