@@ -18,15 +18,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec est quis m
 
 <br>
 
-<img src="./assets/rex-laptop.png" width="55%" align="right" />
+<img src="./assets/rex-laptop.png" width="45%" align="right" />
 
-</br>
+<p>
+-  Frontend Develope
+</p>
+-  Always learning and exploring new tech
+</p>
+-  Tech Stack: Angular, React, TypeScript, SCSS
+</p>
+-  I find rhythm in chaos with my headphones on.
+</p>
+-  I don’t have all the answers, but I’m always trying to improve.
+</p>
 
-- Frontend Developer
-- Always learning and exploring new tech
-- Tech Stack: Angular, React, TypeScript, SCSS
-- I find rhythm in chaos with my headphones on.
-- I don’t have all the answers, but I’m always trying to improve.
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hoyos-Dev&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff" alt="HoyosDev Github Stats">
+
 
 
 
