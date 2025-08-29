@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec est quis m
 </p>
 
 
-<img src="./assets/me.png" width="45%" align="right" />
+<img src="./assets/im.png" width="45%" align="right" />
 
 <br>
 
