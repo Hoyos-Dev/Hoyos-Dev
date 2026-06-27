@@ -36,8 +36,11 @@ Beyond coding, I consider myself a young developer with energy, creativity, and 
 
 <br>
 
-<img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=Hoyos-Dev&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff" alt="HoyosDev Github Stats">
+<div align="center">
 
+![Snake](https://raw.githubusercontent.com/v4nt3/v4nt3/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 
 
