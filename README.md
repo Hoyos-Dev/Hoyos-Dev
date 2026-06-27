@@ -34,8 +34,6 @@ Beyond coding, I consider myself a young developer with energy, creativity, and 
 -  I find rhythm in chaos with my headphones on.
 </p>
 
-<br>
-
 <div align="center">
 
 ![Snake](https://raw.githubusercontent.com/v4nt3/v4nt3/output/github-contribution-grid-snake-dark.svg)
