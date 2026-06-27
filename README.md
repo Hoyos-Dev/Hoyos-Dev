@@ -20,7 +20,7 @@ I have completed several courses at Platzi and a Diploma in Artificial Intellige
 Beyond coding, I consider myself a young developer with energy, creativity, and a clear goal: to contribute to the digital world with practical and scalable solutions.
 </p>
 
-<img src="./assets/chacaron.png" width="45%" align="right" />
+<!-- <img src="./assets/chacaron.png" width="45%" align="right" /> -->
 
 <br>
 
