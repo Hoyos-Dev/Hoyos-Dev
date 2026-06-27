@@ -35,7 +35,9 @@ Beyond coding, I consider myself a young developer with energy, creativity, and 
 </p>
 
 <div align="center">
+  
 ![Snake](https://raw.githubusercontent.com/v4nt3/v4nt3/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 
